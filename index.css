@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+#bg-back{
+    background-image: url("bg-back-about.png");
+}
+#carousel-btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(27, 27, 27);
+    text-decoration: none;
+}
+#carousel-btn:hover{
+    color: black;
+    background-color: rgb(241, 240, 240);
+
+}
+#card{
+    opacity: .8;
+}
+#card:hover{
+    opacity: .9;
+}
+#down{
+    color: transparent;
+}
+#down:hover{
+    color: white;
+}
+
